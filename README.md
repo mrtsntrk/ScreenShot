@@ -1,6 +1,7 @@
 ## Screen Shot Program
 
 Programın yapıldığı tarih: 12.05.2018
+
 Proje upload ve güncelleme tarihi: 01.05.2019
 
 Detaylar;
